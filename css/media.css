@@ -1,0 +1,348 @@
+@media (max-width:1440px){
+  .skill-wrapper ol li {
+	flex: 0 0 44%;
+	max-width: 44%;
+}
+.banner .element-5 {
+    left: 5%;
+	    bottom: 60px;
+}
+.academic_history .academic-element-2 {
+    left: 70px;
+	top: 140px;
+}
+.academic_history .academic-element-2,.banner .element-1,.banner .element-2,.banner .element-4,.banner .element-3,.banner .element-5,.about .about-element-2,.about-element-3,.about .about-element-1,.testimonial_sec .testimonial-element-2,.testimonial_sec .testimonial-element-1,.contact-element-1,.contact-element-2,.contact-element-3{
+    width: 50px;
+}
+.contact-element-1{
+    top: 40px;
+} 
+.contact-element-2{
+    top: 20px;
+}
+.contact-element-3{
+    bottom: 50px;
+}
+.testimonial_sec .slider-nav {
+    width: 50px;
+    height: 50px;
+}
+.testimonial_sec .slider-nav::after {
+    width: 2rem;
+    height: 2rem;
+}
+.animate-charcter { 
+	font-size: 100px;
+}
+.main-nav ul {
+	padding: 0px 0px;
+}
+
+}
+@media (max-width:1199px){
+.py-100{padding-bottom: 80px;padding-top: 80px;}
+.pb-100{padding-bottom: 80px;}
+.pt-100{padding-top: 80px;}
+.skill-wrapper ol li {
+	flex: 0 0 43%;
+	max-width: 43%;
+}
+.academic_history .academic-element-2,.banner .element-1,.banner .element-2,.banner .element-4,.banner .element-3,.banner .element-5,.about .about-element-2,.about-element-3,.about .about-element-1,.testimonial_sec .testimonial-element-2,.testimonial_sec .testimonial-element-1,.contact-element-1,.contact-element-2,.contact-element-3{
+    width: 40px;
+}
+    .banner_img img {
+	border-radius: 0px;
+}
+.about-element-3{
+    bottom: 30px;
+}
+.main-nav {
+    justify-content: center;
+}
+.banner_img img {
+    width: 400px;
+    height: 400px;
+}
+h1 {
+    font-size: 35px;
+}
+h2 {
+    font-size: 30px;
+}
+.s_heading {
+    font-size: 12px;
+}
+.skill-wrapper ol li p {
+    font-size: 14px;
+}
+.skill-wrapper ol li span {
+    width: 50px;
+    height: 50px;
+}
+.skill-wrapper ol li i, .skill-wrapper ol li img {
+    font-size: 25px;
+}
+.about_img img {
+    width: 400px;
+}
+.academic_history .academic-element-1 {
+    bottom: 670px;
+    left: 50px;
+}
+.content {
+    padding: 15px 15px;
+}
+.common-btn {
+    padding: 11px 26px;
+    font-size: 16px;
+}
+#curve_chart {
+	overflow-x: scroll;
+    overflow-y: hidden;
+}
+.animate-charcter { 
+	font-size: 83px;
+}
+
+}
+@media (max-width:991px){
+.py-100{padding-bottom: 60px;padding-top: 60px;}
+.pb-100{padding-bottom: 60px;}
+.pt-100{padding-top: 60px;}
+    .academic_history .academic-element-2,.banner .element-1,.banner .element-2,.banner .element-4,.banner .element-3,.banner .element-5,.about .about-element-2,.about-element-3,.about .about-element-1,.testimonial_sec .testimonial-element-2,.testimonial_sec .testimonial-element-1,.contact-element-1,.contact-element-2,.contact-element-3,.c-element-1,.c-element-2,.c-element-3,.c-element-4{
+    display: none;
+}
+    .py-100{padding-bottom: 70px;padding-top: 70px;}
+.pb-100{padding-bottom: 70px;}
+.pt-100{padding-top: 70px;}
+.header_sec .container {
+	max-width: 100%;
+}
+    .my_skill_img img {
+    max-width: 130px;
+}
+    .tooltip::after {
+	width: 224px;
+	height: 66px;
+	font-size: 18px;
+	font-weight: 300;
+	top: 38%;
+	left: 0px;
+	
+}
+    .skill-wrapper ol li {
+	padding: 10px 20px;
+	margin: 0px 10px 20px 0px;
+}
+    .skill-wrapper ol {
+	justify-content: center;
+}
+    .my_skill_img {
+	text-align: center;
+}
+.banner {
+	background-size: cover;
+}
+.banner::before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: #00000075;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+ul.f-content {
+	margin-bottom: 0px;
+}
+.contact_img a {
+	font-size: 18px;
+}
+.banner .banner_txt p {
+	color: #fff;
+}
+.banner .banner_txt {
+	text-align: center;
+}
+    .testimonial_sec .swiffy-slider {
+	width: 600px;
+}
+h1 {font-size: 30px;}
+h2{font-size: 26px;}
+h5{font-size: 18px;}
+h6{font-size: 18px;}
+  .timeline_container {
+	padding: 9px 25px;
+}
+    .header_sec .main-link {
+	position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--px-black);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 10px 20px;
+    display: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(55, 55, 55, 0.075);
+        background: #040C16;
+}
+   .main-link .sub-link {
+	position: relative;
+	left: 0px;
+	transform: translateX(0%);
+	width: 100%;
+	text-align: left;
+       top:0px;
+       display: none;
+       visibility: visible;
+}
+  
+    .toggle {
+	display: block;
+        z-index: 999;
+	
+}
+    .toggle{cursor: pointer;
+    display: block;
+}
+  
+   
+}
+
+@media (max-width:767px){
+    .py-100{padding-bottom: 40px;padding-top: 40px;}
+.pb-100{padding-bottom: 40px;}
+.pt-100{padding-top: 40px;}
+    .banner_img {
+	justify-content: center;
+}
+    .about_img {
+	text-align: center;
+	margin-bottom: 20px;
+}
+    .testimonial_sec .swiffy-slider {
+	width: 500px;
+}
+    .contact_img {
+	text-align: center;
+}
+    .left-timeline,.right-timeline {
+	left: 0;
+}
+    .timeline_container {
+	width: 100%;
+
+}
+    .timeline_container.left-timeline::before,.timeline_container.left-timeline::after,.timeline_container.right-timeline::before,.timeline_container.right-timeline::after {
+	display: none;
+}
+    .timeline::after {
+	z-index: -1;
+}
+    .skill-wrapper ol li p {
+	font-size: 12px;
+}
+    .skill-wrapper ol li {
+	margin: 0px 10px 10px 0px;
+}
+     
+.banner {
+	padding-top: 140px;
+}
+	 
+	
+
+
+
+
+}
+@media (max-width:575px){
+.testimonial_sec .swiffy-slider {
+	width: 100%;
+}
+    .banner_img img {
+	width: 330px;
+	height: 370px;
+}
+    .banner_txt {
+	text-align: center;
+}
+ .content {
+	text-align: center;
+}   
+.animate-charcter {
+	font-size: 63px;
+}  
+    
+    
+}
+@media (max-width:479px){
+    .animate-charcter {
+        font-size: 50px;
+    } 
+    .logo img {
+	max-width: 197px;
+	width: 100%;
+}
+    .timeline_container {
+	padding: 15px 15px;
+}
+    
+    h1 {font-size: 25px;}
+h2{font-size: 20px;}
+h5{font-size: 18px;}
+h6{font-size: 18px;}
+    
+
+    .skill-wrapper ol li i {
+	font-size: 20px;
+        
+}
+    .skill-wrapper ol li img{
+        width: 30px;
+    }
+  .skill-wrapper ol li {
+	flex: 0 0 57%;
+	max-width: 57%;
+}
+    .my_skill_img img {
+	width: 266px;
+        border-radius: 0px;
+}
+    .about_img img {
+	width: 310px;
+        border-radius: 0px;
+}
+    
+  .contact_us .contact_img img {
+	border-radius: 0px;
+}  
+   .skill-wrapper ol li {
+	flex: 0 0 100%;
+	max-width: 100%;
+} 
+    
+    
+    
+    
+}
+
+@media (max-width:359px){
+ .py-100{padding-bottom: 30px;padding-top: 30px;}
+.pb-100{padding-bottom: 30px;}
+.pt-100{padding-top: 30px;}
+h1 {font-size: 20px;}
+h2{font-size: 18px;}
+h5{font-size: 16px;}
+h6{font-size: 16px;}
+    .logo img {
+	max-width: 170px;
+	width: 100%;
+}
+}
+
+
+
+
